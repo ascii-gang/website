@@ -1,2 +1,2 @@
 # website
-:web: | Gang's official website.
+🕸 | Gang's official website.
